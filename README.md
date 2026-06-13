@@ -6,6 +6,10 @@
 
 <br>
 
+### *"Turning caffeine into machine learning models."* ☕🤖
+
+<br>
+
 **B.Tech @ MNNIT Allahabad · BS Data Science @ IIT Madras**
 
 <br>
@@ -28,6 +32,7 @@
 - 🎓 **B.Tech Materials Engineering** — MNNIT Allahabad (2024–2028)
 - 📊 **BS Data Science & Applications** — IIT Madras (2024–Present)
 - 🔬 Passionate about **Deep Learning**, **Computer Vision**, **NLP/LLMs**
+- 🌍 Curious about **Geopolitics** and how technology shapes global power
 - 🏆 **3× Competition Winner** at MNNIT Allahabad
 - 🚀 I build **research-first, production-ready ML systems**
 - 🧠 Currently exploring **Vision Transformers** & **LLM fine-tuning**
@@ -48,8 +53,32 @@
 | 💬 NLP / LLMs | RAG, LangChain, HuggingFace, BERT |
 | 📊 Statistical Modeling | Hypothesis Testing, EDA, Time Series |
 | ⚙️ MLOps | ONNX, Docker, FastAPI, Flask Deployment |
+| 🌍 Geopolitics | Intersection of AI, Technology & Global Affairs |
 
 </div>
+
+---
+
+## 📄 Research & Paper Reproductions
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200"/>
+
+I actively read and reproduce ML research papers to deepen architectural understanding beyond surface-level implementation.
+
+**🔬 MLP-Mixer: An All-MLP Architecture for Vision** *(Tolstikhin et al.)*
+- Reproduced core architecture **from scratch in PyTorch** on CIFAR-10
+- Implemented token-mixing & channel-mixing MLP blocks with residual connections
+- Built full research pipeline: config-driven training, checkpointing, metrics & visualizations
+- Achieved **78.4% Accuracy · 78.1% F1-Score** after 50 epochs
+- Extended with experiments: SGD vs AdamW, deeper Mixer variants, hyperparameter tuning
+
+> *"Simple architectures are not automatically easy to train — MLP-Mixer's performance depends heavily on patch size, hidden dimension, optimizer choice, dropout, and weight decay."*
+
+[🔗 View Repository](https://github.com/lordabhishek10242/research-paper-reproduction)
+
+`PyTorch` `MLP-Mixer` `CIFAR-10` `AdamW` `Cosine LR` `Research Reproduction`
+
+<br clear="right"/>
 
 ---
 
